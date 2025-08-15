@@ -2,8 +2,8 @@
 ## Trabalho Prático – **Conjunto Dominante**
 
 **Autores:**  
-- Gabriel Miller – Matrícula: XXXXXXXX  
-- Gustavo Moreira – Matrícula: XXXXXXXX  
+- Gabriel Miller – Matrícula: 22.1.8101  
+- Gustavo Moreira – Matrícula: 22.1.8007  
 
 ---
 
