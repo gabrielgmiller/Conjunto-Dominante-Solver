@@ -11,7 +11,7 @@
 
 O **Problema do Conjunto Dominante** consiste em:  
 
-> Dado um grafo não direcionado $begin:math:text$ G = (V, E) $end:math:text$, determinar o menor subconjunto $begin:math:text$ V' \\subseteq V $end:math:text$ tal que todo vértice $begin:math:text$ v \\in V \\setminus V' $end:math:text$ tenha pelo menos um vizinho em $begin:math:text$ V' $end:math:text$.  
+> Dado um grafo não direcionado G = (V, E), determinar o menor subconjunto V' ⊆ V tal que todo vértice v ∈ V − V' tenha pelo menos um vizinho em V'.
 
 Este é um problema **NP-completo**, o que significa que, para instâncias grandes, métodos exatos podem ser inviáveis em tempo razoável. Assim, este trabalho implementa tanto **uma abordagem exata** quanto **uma heurística eficiente**.
 
