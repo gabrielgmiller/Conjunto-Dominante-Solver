@@ -114,7 +114,3 @@ plot:
 	@echo ">> Gerando gráfico a partir de results/bench.csv"
 	@python3 plot.py
 	
-# Empacotar para entrega 
-zip:
-	@zip -r entrega.zip src Makefile README.md data results -x "*/.DS_Store"
-	@echo "✓ Arquivo entrega.zip gerado (renomeie com nome+matrícula antes de enviar)"
